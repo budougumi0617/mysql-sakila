@@ -65,3 +65,10 @@ mysql> show tables;
 +----------------------------+
 23 rows in set (0.01 sec)
 ```
+
+# LICENSE
+
+
+*The contents of the sakila-schema.sql and sakila-data.sql files are licensed under the New BSD license.*
+
+https://dev.mysql.com/doc/sakila/en/sakila-license.html
